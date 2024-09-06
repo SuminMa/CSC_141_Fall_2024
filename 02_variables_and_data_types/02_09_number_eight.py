@@ -9,11 +9,3 @@ print(15-7)
 print(1*8)
 #division
 print(int(56/7))
-
-
-
-
-
-
-
-# input, process, output
