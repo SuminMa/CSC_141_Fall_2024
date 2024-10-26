@@ -18,7 +18,7 @@ while True:
     if a_title == 'q':
         break
 
-    # Call make_album() with the user's input and print the dictionary that's created.
-    album_info = make_album(a_name, a_title)
-    print(f"")
+# Call make_album() with the user's input and print the dictionary that's created.
+album_info = make_album(a_name, a_title)
+print(album_info)
 
