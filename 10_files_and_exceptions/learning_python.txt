@@ -1,0 +1,4 @@
+In Python you can create a class.
+In Python you can define a function.
+In Python you can write very powerful code.
+In Python you can do almost anything.
